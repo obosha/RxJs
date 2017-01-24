@@ -1,0 +1,22 @@
+{
+  "name": "psrxjs5",
+  "version": "1.0.0",
+  "description": "RxJs tests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obosha/RxJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/obosha/RxJs/issues"
+  },
+  "homepage": "https://github.com/obosha/RxJs#readme",
+  "dependencies": {
+    "rxjs": "^5.0.3"
+  }
+}
